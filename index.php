@@ -1,3 +1,3 @@
-<?php 
-echo "ok";
+<?php
+echo "ok na kub";
  ?>
